@@ -1,6 +1,4 @@
-# cl-datasci-pnp-2021
-Data Science: Principles and Practice, 2020-21
-
+# Data Science: Principles and Practice, 2020-21
 
 Course materials for the Data Science: Principles and Practice course at the University of Cambridge.
 
