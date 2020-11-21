@@ -10,5 +10,6 @@ To run the notebooks on your machine, check if `Python 3` is installed. In addit
 - `Matplotlib` (v 3.1.3): for visualisations. Check installation instructions at https://matplotlib.org/users/installing.html
 - `NumPy` (v 1.18.1) and `SciPy` (v 1.4.1): for scietinfic programming. Check installation instruction at https://www.scipy.org/install.html
 - `Scikit-learn` (v 0.22.1): for machine learning algorithms. Check installation instructions at http://scikit-learn.org/stable/install.html
+- `TensorFlow` (v 2; I'm using v 2.2.0): for deep learning algorithms. Check installation instructions at https://www.tensorflow.org/install
 
 Alternatively, a number of these libraries can be installed in one go through [Anaconda](https://www.anaconda.com/products/individual) distribution. 
