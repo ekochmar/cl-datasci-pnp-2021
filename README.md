@@ -8,7 +8,7 @@ To run the notebooks on your machine, check if `Python 3` is installed. In addit
 
 - `Pandas` (v 1.0.1) for easy data uploading and manipulation. Check installation instructions at https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 - `Matplotlib` (v 3.1.3): for visualisations. Check installation instructions at https://matplotlib.org/users/installing.html
-- `NumPy` (v 1.18.1) and `SciPy` (v 1.4.1): for scietinfic programming. Check installation instruction at https://www.scipy.org/install.html
+- `NumPy` (v 1.18.1) and `SciPy` (v 1.4.1): for scientific programming. Check installation instruction at https://www.scipy.org/install.html
 - `Scikit-learn` (v 0.22.1): for machine learning algorithms. Check installation instructions at http://scikit-learn.org/stable/install.html
 - `TensorFlow` (v 2; I'm using v 2.2.0): for deep learning algorithms. Check installation instructions at https://www.tensorflow.org/install
 
